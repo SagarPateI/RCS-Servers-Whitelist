@@ -1,0 +1,16 @@
+rcs.telephony.goog
+messages.google.com
+
+us-att.rcs.telephony.goog
+verizon.rcs.telephony.goog
+us-tmobile.rcs.telephony.goog
+
+fp-us-att.rcs.telephony.goog
+fp-us-tmobile.rcs.telephony.goog
+fp-us-verizon.rcs.telephony.goog
+
+rcs-acs-tmo-us.jibe.google.com
+rcs-acs-att-us.jibe.google.com
+
+acs-vzw-us.jibe.google.com
+rcs-pfi-production-acs.pfi.jibecloud.net

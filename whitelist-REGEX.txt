@@ -1,0 +1,5 @@
+^(rcs\.telephony\.goog|messages\.google\.com)$	
+^(fp-)?(us-)?(att|verizon|tmobile)\.rcs\.telephony\.goog$	
+^rcs-acs-(tmo|att)-us\.jibe\.google\.com$
+acs-vzw-us.jibe.google.com	
+rcs-pfi-production-acs.pfi.jibecloud.net
