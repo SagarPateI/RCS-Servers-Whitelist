@@ -1,2 +1,4 @@
 # RCS-Servers-Whitelist
- This is a work-in-progress list of domains for Google Messages and Samsung Messages users to whitelist in order to make sure RCS messages can be sent through your Pi-Hole, Adaway, or other firewalls.
+ This is a work-in-progress list of server URLs for Google Messages and Samsung Messages users to whitelist in order to make sure RCS messages can be sent through your Pi-Hole, Adaway, or other firewalls.
+
+Some of these URLs were found from personal experience, and some were found via GitHub's search functionality. I made this repo because I personally have been struggling to find this information publicly, and I hope that someone may find this useful. Feel free to fork this and do with it as you please.
